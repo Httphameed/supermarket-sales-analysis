@@ -1,17 +1,17 @@
 # Supermarket Sales Analysis
 
-Just a little data analysis project I did for fun, using some supermarket sales data.
+A data analysis project exploring supermarket sales data.
 
-## What this is about
-I found this dataset online and thought it'd be cool to play around with. It has sales info from 3 supermarket branches over 3 months.
+## About this project
+This project analyzes sales data from 3 supermarket branches over a 3-month period. The goal was to explore trends in product sales, branch performance, and customer behavior.
 
-## What I used
+## Tools used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 
-## What's in here
-- `analysis.ipynb` - the notebook where I did all the work
-- `data/` - the dataset I used
-- `requirements.txt` - the libraries you need if you want to run it yourself
+## Project files
+- `analysis.ipynb`: Jupyter notebook with the analysis and visualizations
+- `data/`: Directory containing the dataset
+- `requirements.txt`: List of required Python libraries
