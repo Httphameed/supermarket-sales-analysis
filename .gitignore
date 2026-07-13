@@ -11,3 +11,6 @@ __pycache__/
 # Virtual environments
 venv/
 env/
+
+# Separate git repo
+movie-ratings-analysis/
