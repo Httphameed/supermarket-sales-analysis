@@ -1,21 +1,17 @@
 # Supermarket Sales Analysis
 
-A simple data analysis project for junior data analysts.
+Just a little data analysis project I did for fun, using some supermarket sales data.
 
-## Project Overview
-This project analyzes supermarket sales data to identify trends, customer behavior, and product performance.
+## What this is about
+I found this dataset online and thought it'd be cool to play around with. It has sales info from 3 supermarket branches over 3 months.
 
-## Skills Demonstrated
-- Data cleaning and preprocessing
-- Exploratory data analysis (EDA)
-- Data visualization
-- Statistical analysis
-
-## Dataset
-The dataset contains sales records from a supermarket with 3 branches over 3 months.
-
-## Tools Used
+## What I used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
+
+## What's in here
+- `analysis.ipynb` - the notebook where I did all the work
+- `data/` - the dataset I used
+- `requirements.txt` - the libraries you need if you want to run it yourself
